@@ -12,10 +12,10 @@ I enjoy developing full-stack web services, exploring language models, and visua
 - NLP systems that understand human emotion and intention (HCI-centered)  
 - Embedding techniques, RAG pipelines, and real-time chatbot systems
 
-📬 How to reach me: [syang00129@gmail.com](mailto:syang00129@gmail.com)
+📬 How to reach me: [syang00129@gmail.com](mailto:syang00129@gmail.com)    
 🌐 Visit my website: [siwany.com](https://siwany.com)
 
-📝 [Resume](https://siwany.com/resume)
+📝 Check out My Resume: [Resume](https://siwany.com/resume)
 
 ---
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=siwany&show_icons=true&bg_color=00000000)
