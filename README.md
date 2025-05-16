@@ -1,7 +1,27 @@
-## Hi there 👋
+## Hi there 👋 I'm Siwan!
+
+I'm a 4th-year Computer Science student at Georgia Tech, passionate about AI, NLP, and building tech that bridges real-world gaps. 
+I enjoy developing full-stack web services, exploring language models, and visualizing data in meaningful ways!
+
+💡 I’m currently:
+- Building an AI-powered assistant chatbot using RAG, FastAPI, and LangChain  
+- Exploring research in multilingual NLP and real-time translation
+
+🔍 Focus areas:
+- Multimodal language models and large language models (LLMs)  
+- NLP systems that understand human emotion and intention (HCI-centered)  
+- Embedding techniques, RAG pipelines, and real-time chatbot systems
+
+📬 How to reach me: **siwany.cs@gmail.com**  
+🌐 Visit my website: [siwany.com](https://siwany.com)
+
+📝 [Resume](https://siwany.com/resume)
+
+---
+![Github Stats](https://github-readme-stats.vercel.app/api?username=siwany&show_icons=true&bg_color=00000000)
+
 
 <!--
-**siwany/siwany** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
