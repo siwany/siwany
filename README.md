@@ -13,7 +13,7 @@ I enjoy developing full-stack web services, exploring language models, and visua
 - Embedding techniques, RAG pipelines, and real-time chatbot systems
 
 📬 How to reach me: [syang00129@gmail.com](mailto:syang00129@gmail.com)    
-🌐 Visit my website: [siwany.com](https://siwanyang.com)
+🌐 Visit my website: [siwany.com](https://siwanyang.com)  
 📝 Check out My Resume: [Resume](https://siwanyang.com/files/Resume.pdf)
 
 <!--
