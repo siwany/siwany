@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Siwan!
 
-I'm a 4th-year Computer Science student at Georgia Tech, passionate about AI, NLP, and building tech that bridges real-world gaps. 
+I'm a 4th-year Computer Science student at **Georgia Tech**, passionate about AI, NLP, and building tech that bridges real-world gaps. 
 I enjoy developing full-stack web services, exploring language models, and visualizing data in meaningful ways!
 
 💡 I’m currently:
